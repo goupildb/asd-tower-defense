@@ -1,6 +1,6 @@
 # asd-tower-defense
-Automatically exported from code.google.com/p/asd-tower-defense
+A backup from the code.google.com/p/asd-tower-defense site
 
 A brief description is available here : http://goupildb.github.io/asd-tower-defense/
-A backup of the code.google.com/p/asd-tower-defense site
+
 HomePage of the project : http://www.asd-td.com/
